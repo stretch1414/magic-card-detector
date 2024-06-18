@@ -1,0 +1,17 @@
+Name : Anticipate
+Mana Cost : {1}{U}
+CMC : 2
+Colors : [Blue]
+Type : Instant
+Supertypes : void
+Types : [Instant]
+Subtypes : void
+Set Name : Dragons of Tarkir
+Rarity : Common
+Text : Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Flavor : When I have mediated on all outcomes, my opponent has no recourse.
+Artist : Luke Hurwitz
+Number : 45
+Power : void
+Toughness : void
+Loyalty : void

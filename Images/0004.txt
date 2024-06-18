@@ -1,0 +1,17 @@
+Name : Sylvan Caryatid
+Mana Cost : {1}{G}
+CMC : 2
+Colors : [Green]
+Type : Creature - Plant
+Supertypes : void
+Types : [Creature]
+Subtypes : [Plant]
+Set Name : Theros
+Rarity : Rare
+Text : Defender, hexproof. T: Add one mana of any color to your mana pool.
+Flavor : Those who enter the copse never leave. They find peace there and take root, becoming part of the ever-growing grove.
+Artist : Chase Stone
+Number : 180
+Power : 0
+Toughness : 3
+Loyalty : void

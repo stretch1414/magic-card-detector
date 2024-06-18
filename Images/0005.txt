@@ -1,0 +1,17 @@
+Name : Dragonlord's Prerogative
+Mana Cost : {4}{U}{U}
+CMC : 6
+Colors : [Blue]
+Type : Instant
+Supertypes : void
+Types : [Instant]
+Subtypes : void
+Set Name : Dragons of Tarkir
+Rarity : Rare
+Text : As an additional cost to cast Dragonlord's Prerogative, you may reveal a Dragon card from your hand. If you revealed a Dragon card or controlled a Dragon card as you cast Dragonlord's Prerogative, Dragonlord's Prerogative can't be countered. Draw four cards.
+Flavor : void
+Artist : Seb McKinnon
+Number : 52
+Power : void
+Toughness : void
+Loyalty : void

@@ -1,0 +1,17 @@
+Name : Surrak Dragonclaw
+Mana Cost : {2}{G}{U}{R}
+CMC : 5
+Colors : [Green, Blue, Red]
+Type : Legendary Creature - Human Warrior
+Supertypes : [Legendary]
+Types : [Creature]
+Subtypes : [Human, Warrior]
+Set Name : Khans of Tarkir
+Rarity : Mythic Rare
+Text : Flash. Surrak Dragonclaw can't be countered. Creature spells you control can't be countered. Other creatures you control have trample.
+Flavor : Both his rank and his scars were earned in single combat against a cave bear.
+Artist : Jaime Jones
+Number : 206
+Power : 6
+Toughness : 6
+Loyalty : void

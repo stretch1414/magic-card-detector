@@ -1,0 +1,17 @@
+Name : Liliana Vess
+Mana Cost : {3}{B}{B}
+CMC : 5
+Colors : [Black]
+Type : Plasewalker - Liliana
+Supertypes : void
+Types : [Planeswalker]
+Subtypes : [Liliana]
+Set Name : Magic 2015
+Rarity : Mythic Rare
+Text : +1: Target player discards a card. -2: Search your library for a card, then shuffle your library and put that card on top of it. -8: Put all creature cards from all graveyards onto the battlefield under your control.
+Flavor : void
+Artist : Aleksi Bricloe
+Number : 103
+Power : void
+Toughness : void
+Loyalty : 5
